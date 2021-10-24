@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>map.png</file>
+        <file>master.jpg</file>
+        <file>mush.png</file>
+        <file>turtle.png</file>
+        <file>Clear.png</file>
+        <file>Ctrl.png</file>
+        <file>Search.png</file>
+        <file>timeMode.jpg</file>
+        <file>S4_1.jpg</file>
+        <file>S4_2.jpg</file>
+    </qresource>
+</RCC>
