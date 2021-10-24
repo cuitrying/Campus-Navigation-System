@@ -2,7 +2,7 @@
     -- 2021 Spring -- Data Structure Course Design
 A very good navigation system for people in Bupt 
 
-##content
+## content
 Developed a campus navigation system based on undirected graph structure and Dijkstra Algorithm.
 
 Implemented multi-strategy and real-time navigation feature to satisfy needs in various scenarios.
