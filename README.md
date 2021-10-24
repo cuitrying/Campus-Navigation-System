@@ -1,5 +1,5 @@
 # Campus-Navigation-System 
-     -- 2021 Spring -- Data Structure Course Design
+-- 2021 Spring -- Data Structure Course Design
 A very good navigation system for people in Bupt 
 
 ## content
